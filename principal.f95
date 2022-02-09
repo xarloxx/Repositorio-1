@@ -2,6 +2,7 @@ program principal
     use ordenar
     implicit none
     
+    integer :: z
     integer :: i, j, aux, ierr, met
     integer, parameter :: n=8
     integer :: X(n)
