@@ -1,7 +1,7 @@
 program principal
     use ordenar
     implicit none
-    integer:: character'me cago en dios'
+    
     integer :: i, j, aux, ierr, met
     integer, parameter :: n=8
     integer :: X(n)
